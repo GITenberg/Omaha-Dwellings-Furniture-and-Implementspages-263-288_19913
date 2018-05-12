@@ -1,0 +1,33 @@
+_repo: Omaha-Dwellings-Furniture-and-Implementspages-263-288_19913
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dorsey, James Owen
+    alias: Dorsey, J. Owen (James Owen)
+    birthdate: 1848
+    deathdate: 1895
+    gutenberg_agent_id: '7103'
+    url: http://www.gutenberg.org/2009/agents/7103
+description: ''
+gutenberg_bookshelf:
+- Archaeology
+- Anthropology
+- Native America
+gutenberg_issued: '2006-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19913'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Omaha Indians'
+- !lcc 'E011'
+title: "Omaha Dwellings, Furniture and Implements\r\nThirteenth Annual Report of the\
+  \ Beaurau of American Ethnology to the Secretary of the Smithsonian Institution\
+  \ 1891-1892, Government Printing Office, Washington, 1896, pages 263-288"
+url: http://www.gutenberg.org/ebooks/19913
